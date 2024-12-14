@@ -1,6 +1,4 @@
-[![MasterHead](/public/preview/home-preview.png)](https://github.com/Puskar-Roy/tools)
-
-## Tools Online
+## Tools
 Collection of free tools for developer, designer.
 
 ## Technologies 💻
