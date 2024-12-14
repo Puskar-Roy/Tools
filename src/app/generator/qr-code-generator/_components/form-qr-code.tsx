@@ -117,7 +117,7 @@ export function FormQRCode() {
       >
         <Image
           ref={imageRef}
-          src={qrCodeURL || '/images/qr-code-Puskar-Roy.png'}
+          src={qrCodeURL || '/images/qr.png'}
           width={IMAGE_SIZE}
           height={IMAGE_SIZE}
           alt='QR Code'
