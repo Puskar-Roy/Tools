@@ -1,3 +1,3 @@
 ## Tools
-Collection of free tools for developer, designer.
+Collection of free tools for Developer, Designer.
 
